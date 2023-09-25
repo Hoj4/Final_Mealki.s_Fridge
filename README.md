@@ -1,5 +1,4 @@
 # Final_Mealki.s_Fridge# Semi_OJJANG
-MVC - 밀키의 냉장고
 
 ## 🖥️ 프로젝트 소개
   MES와 ERP가 결합된 형태의 웹 서비스 밀키트 도매회사
