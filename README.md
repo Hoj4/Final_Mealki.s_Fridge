@@ -33,4 +33,8 @@
 - 메인 화면에 수주왕 차트 구현 (매달 자동 업데이트)
 
 ## 📌 주요 기능 동작 영상
-![GitHub README에 추가한 YouTube 동영상](https://www.youtube.com/watch?v=qYb3LnWIRVE)
+
+
+https://github.com/Hoj4/Final_Mealki.s_Fridge/assets/118800372/c7b8015d-a389-4170-aa1c-ab48515d33f0
+
+
