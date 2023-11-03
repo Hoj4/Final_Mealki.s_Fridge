@@ -23,13 +23,13 @@
 - **ORM** : Mybatis
 
 ## 📌 주요 기능
-#### 작업지시관리 - <a href="" >상세보기 - WIKI 이동</a>
+#### 작업지시관리 - <a href="https://github.com/Hoj4/Final_Mealki.s_Fridge/wiki/%EC%9E%91%EC%97%85%EC%A7%80%EC%8B%9C%EA%B4%80%EB%A6%AC" >상세보기 - WIKI 이동</a>
 - 수주번호 검색기능
 - 수주번호 클릭 시 작업지시서 생성
 - 작업 현황에 따른 작업지시 현황 탭 구현
 - 작업상태가 대기중일 시에만 작업지시서 수정, 삭제 가능하도록 구현
 - 작업지시서 삭제시 DELETE가 아닌 UPDATE문을 사용하여 DB에 데이터가 남아있게끔 구현
-#### 홈화면 (수주왕 차트) - <a href="" >상세보기 - WIKI 이동</a>
+#### 홈화면 (수주왕 차트) - <a href="https://github.com/Hoj4/Final_Mealki.s_Fridge/wiki/%EC%88%98%EC%A3%BC%EC%99%95%EC%B0%A8%ED%8A%B8" >상세보기 - WIKI 이동</a>
 - 메인 화면에 수주왕 차트 구현 (매달 자동 업데이트)
 
 ## 📌 주요 기능 동작 영상
