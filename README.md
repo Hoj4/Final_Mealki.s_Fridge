@@ -37,6 +37,11 @@
 
 https://github.com/Hoj4/Final_Mealki.s_Fridge/assets/118800372/c7b8015d-a389-4170-aa1c-ab48515d33f0
 
+
+## ERD
+![image](https://github.com/Hoj4/Final_Mealki.s_Fridge/assets/118800372/fc54e9ef-0129-4fdf-be12-633cb9c255a2)
+![image](https://github.com/Hoj4/Final_Mealki.s_Fridge/assets/118800372/fab94f14-45fe-43e3-ac2a-2bcbe24a8933)
+
 ## 회고
 아쉬운 점<br>
  - 초반 테이블 설계가 개발을 하면서 많이 달라진 점<br>
