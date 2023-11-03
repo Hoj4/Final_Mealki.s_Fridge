@@ -17,10 +17,12 @@
  - 팀원 : 강상현 - 생산관리
 
 ## ⚙️ 개발 환경
-- `Java 11`
-- `JDK 11.0.15`
-- **Database** : MYSQL
-- **ORM** : Mybatis
+개발 도구 : <br>
+ Eclipse / Mysql WorkBench / Github <br>
+언어 : <br>
+ Java / Javascript / JQuerry / Ajax / HTML5 / CSS3 <br>
+서버 :  <br>
+Apache Tomcat v9.0 / AWS EC2 <br>
 
 ## 📌 주요 기능
 #### 작업지시관리 - <a href="https://github.com/Hoj4/Final_Mealki.s_Fridge/wiki/%EC%9E%91%EC%97%85%EC%A7%80%EC%8B%9C%EA%B4%80%EB%A6%AC" >상세보기 - WIKI 이동</a>
