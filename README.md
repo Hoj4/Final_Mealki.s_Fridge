@@ -1,4 +1,5 @@
 # Final Project - Mealki's Fridge
+<img src="https://github.com/Hoj4/Final_Mealki.s_Fridge/assets/118800372/e860ad32-1d57-4782-9c19-f8966340ee7b" alt="그림01-removebg-preview" width="400" height="140">
 
 ## 🖥️ 프로젝트 소개
   MES와 ERP가 결합된 형태의 웹 서비스 밀키트 도매회사
